@@ -6,15 +6,16 @@
 平台用的是QtCreator，数据库用的MySQL数据库，education_system.sql为数据库文件。
 
 教务系统结图：
-![教务系统结图](https://user-images.githubusercontent.com/58812139/187338190-307889f9-2328-4537-9fcd-cf0333dfe5c7.JPG)
+
+![教务系统结图](https://user-images.githubusercontent.com/58812139/187342775-a476552e-11c7-4a1d-95c7-064706234611.JPG)
 
 登录界面：
 
-![3](https://user-images.githubusercontent.com/58812139/187339425-2b7a60d6-e841-418f-a8d7-8ab1bd243288.JPG)
+![3](https://user-images.githubusercontent.com/58812139/187342805-9a59644f-3cf5-4527-9fbe-f20ed37840b4.JPG)
 
 学生界面：
 
-![4](https://user-images.githubusercontent.com/58812139/187339461-fe75a95d-9eb8-4d75-a119-3793df433013.jpg)
+![4](https://user-images.githubusercontent.com/58812139/187342813-05af788f-702d-488f-9635-7b84fdf78137.jpg)
 
 教师和管理员界面和学生界面差不多。
 学生和教师可以修改头像和密码。
